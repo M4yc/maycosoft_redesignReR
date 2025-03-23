@@ -14,6 +14,10 @@ Idealizar e prototipar um sistema de software já existente tornando-o mais intu
 Atualmente a R&R Assistência Técnica possui um software de gerenciamento de notas para realizar a emissão de notas de serviços e garantia para os serviços feitos pelo técnico da loja. Entretanto, este software está defasado por não ter uma manutenção correta e por possuir um design bem antigo, além de diversas funções existentes nele que não são utilizadas.
 Percebemos que poderiam ser feitas melhorias tanto na parte visual, quanto na parte da reformulação do sistema como um todo. Simplificando e retirando tudo aquilo que não é utilizável e deixando o que de fato é utilizado de forma mais organizada e intuitiva.
 
+# Ciclo de vida
+## Estrela
+O modelo de ciclo de vida estrela destaca-se pela realização de avaliações contínuas ao final de cada etapa concluída. Por ser altamente interativo e centrado no usuário, ele se alinhou bem ao desenvolvimento ágil que utilizamos. Uma de suas principais vantagens é a possibilidade de obter feedbacks ao longo do processo, permitindo ajustes e melhorias durante a construção do projeto. Como se trata de um modelo baseado em redesign, foi necessário realizar diversas adaptações e inovações, e a aplicação desse ciclo de vida mostrou-se essencial para compreender e atender às preferências dos usuários.
+
 # WHY?
 ## Quem utilizará o sistema
 No primeiro momento, o primeiro membro da equipe a ser product owner, entrou em contato com a empresa oferecendo o nosso serviço de Design. Houve então uma reunião com o dono da empresa, ele nos encaminhou para a secretária, que é a pessoa que utiliza o software. Com isso ela nos apresentou o programa e quais eram as dificuldades e as insatisfações.
