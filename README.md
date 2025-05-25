@@ -7,9 +7,32 @@
 
 # Visão Geral
 
-## O desafio
+## O Desafio
 
-Idealizar e prototipar um sistema de software já existente tornando-o mais intuitivo e mais moderno, visto que o sistema está abandonado e sem manutenção e possui uma interface muito antiga. Esse software é utilizado na empresa R&R Assistência Técnica para gerenciamento de notas de serviços.
+O principal desafio do projeto é dar continuidade a uma fase já pré-pronta, evoluindo-a para um estágio de desenvolvimento completo e funcional, com foco em melhorias que aumentem a usabilidade e a satisfação do cliente.
+
+### Refinar os Requisitos
+
+- Realizar uma análsie detalhada das necessidades e especificações atuais.
+- Garantir que as funcionalidades essenciais sejam entregues com excelência.
+- Traduzir os requisitos de alto nível em especificações técnicas mais detalhadas, facilitando o entendimento da equipe de desenvolvimento.
+
+### Aprimorar o Protótipo
+
+- Atualizar o protótipo para refletir as especificações detalhadas e os requisitos revisados.
+- Validar o protótipo com base nos casos de teste.
+- Garantir que o sistema atenda aos padrões de usabilidade e às funcionalidades esperadas pelo usuário final.
+- Incorporar feedbacks dos stakeholders e aplicar os conhecimentos adquiridos em IHC (Interação Humano-Computador).
+
+### Garantir a Evolução do Projeto
+
+- Planejar cuidadosamente as próximas etapas do desenvolvimento.
+- Realizar uma modelagem clara e precisa dos requisitos.
+- Assegurar que a implementação e a avaliação final pelo usuário sejam bem-sucedidas.
+
+### Resumo:
+
+O foco é realizar análises precisas e contínuas para aprimorar o projeto, elevando-o para próxima fase, que consiste no desenvolvimento completo do sistema.
 
 ## Contexto
 
