@@ -56,12 +56,38 @@ O modelo de ciclo de vida estrela destaca-se pela realização de avaliações c
 
 No primeiro momento, o primeiro membro da equipe a ser product owner, entrou em contato com a empresa oferecendo o nosso serviço de Design. Houve então uma reunião com o dono da empresa, ele nos encaminhou para a secretária, que é a pessoa que utiliza o software. Com isso ela nos apresentou o programa e quais eram as dificuldades e as insatisfações.
 
-### Quais seriam os problemas?
+## Quais seriam os problemas?
 
 - Interface muito antiga, tendo como forma de manuseio, somente o teclado;
 - Programa com cores que não combinam com a empresa;
 - Funções obsoletas, procedimentos com pouca intuitividade;
 - Por ter uma interface pouco intuitiva, os procedimentos demandam mais tempo para serem concluídos.
+
+## Descrição do Cenário e Interação Atual
+
+Atualmente, o projeto encontra-se na fase em que o protótipo foi aceito e testado pela usuária, atendendo às funcionalidades e aos requisitos de alto nível previamente definidos. O protótipo, em seu estado atual, contempla as seguintes demandas:
+
+### Interface Moderna e Intuitiva:
+
+A interface foi reformulada, apresentando um visual mais moderno em relação à versão anterior utilizada pela empresa. As cores foram ajustadas conforme as preferências da cliente, e a navegação foi desenvolvida para ser direta e objetiva. Também foi incluída a possibilidade de navegação por meio do mouse, oferecendo maior acessibilidade.
+
+### Novas Funcionalidades Adicionadas:
+
+- Gestão de Itens em Estoque: Adição de um módulo para controle de estoque.
+- Estatísticas de Serviços: Inclusão de relatórios estatísticos para acompanhamento dos serviços prestados.
+- Agenda Integrada: Implementação de uma agenda com integração ao Google Agenda, facilitando o agendamento e controle de serviços preventivos.
+
+### Geração de Notas de Serviço
+
+A funcionalidade foi simplificada e aprimorada com recursos adicionais:
+
+- Geração de PDF da nota.
+- Visualização em tempo real da nota sendo preenchida.
+- Documento da ordem de serviço reposicionado, agora mais centralizado e organizado conforme o padrão interno da empresa.
+
+### Página de Serviços
+
+Nesta seção será possível: Selecionar um cliente e exibir um relatório com todos os serviços realizados anteriormente para aquele cliente (histórico de notas de serviço).
 
 ## Storytelling
 
