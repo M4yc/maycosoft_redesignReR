@@ -123,6 +123,18 @@ Na intenção de entender as necessidades e as perspectivas da nossa cliente, se
 </p>
 <p align="center"> Figura 3 - Mapa de Empatia</p>
 
+## Avaliação - Análise de tarefa, usuários e função
+
+### Análise de tarefas
+
+Para identificar as tarefas que os usuários do sistema precisariam realizar, foram analisadas todas as reuniões realizadas anteriormente, as quais ocorreram de forma presencial. A validação dos requisitos, por meio da apresentação do protótipo, foi conduzida em conjunto com os stakeholders. Inicialmente, foram apresentadas as sugestões propostas pelo cliente, porém também foram sugeridas algumas melhorias e novas funcionalidades, com o objetivo de aprimorar ainda mais a experiência do usuário.
+
+A utilização do protótipo foi essencial para compreender de forma mais clara as necessidades dos usuários, visto que, ao visualizar na prática o funcionamento do sistema, foi possível obter uma melhor compreensão tanto para os usuários quanto para a equipe de desenvolvimento. Além disso, os diagramas de modelagem foram fundamentais para oferecer uma visão abrangente das funcionalidades, auxiliando na compreensão e no desenvolvimento do sistema.
+
+### Usuário
+
+Apóes serem feitas algumas análises, a partir das avaliações do nosso usuário final, foi possívle entender ainda mais 
+
 ## Requisitos
 
 **1.Interface visual moderna e intuitiva:**
