@@ -155,9 +155,21 @@ A elicitação de requisitos foi realizada por meio de reuniões presenciais com
 
 ## Especificação de requisitos
 
-Agora a equipe se reuniu e transformou esses requisitos de alto nível em requisitos de sistema (baixo nível), ou seja, foi necessário um refinamento bem mais preciso e detalhado para que o programador tivesse clareza do que ele realmente irá desenvolver.
+A partir dos requisitos de alto nível levantados junto aos usuários, a equipe realizou um refinamento, transformando-os em requisitos de sistema (baixo nível). Esse detalhamento foi fundamental para garantir que os desenvolvedores tenham total clareza sobre o que deve ser implementado, evitando ambiguidades e facilitando o desenvolvimento do sistema.
 
 <a href="https://trello.com/c/pyBce1lT">Requisitos especificados</a>
+
+## Avaliação - Especificação de requisitos
+
+### Validação de requisitos com o cliente
+
+Foi realizada uma reunião para apresentação do protótipo, juntamente com suas respectivas funcionalidades, especificadas em nível de requisitos. Durante esse encontro, a equipe responsável pelo projeto conduziu uma validação criteriosa, passando por cada requisito individualmente, com o objetivo de verificar se o projeto, que já segue para a etapa de desenvolvimento, está alinhado às expectativas do cliente.
+
+Durante a reunião, o usuário fez sugestões e observações importantes. Além disso, a própria equipe também propôs algumas melhorias percebidas durante o processo de especificação dos requisitos. A maioria das sugestões foi bem aceita pelos stakeholders, sendo devidamente registradas e documentadas para ajustes futuros.
+
+Após a incorporação dos novos requisitos refinados e a atualização do protótipo, foi realizada uma nova apresentação ao cliente. Nessa etapa, a validação foi concluída com um feedback totalmente positivo, sinalizando que o projeto está de acordo com as necessidades e expectativas do cliente.
+
+# Projeto conceitual e especificação do design
 
 ## Identidade Visual
 
@@ -401,6 +413,20 @@ Revisamos todo o texto para corrigir erros de digitação, gramática ou clareza
 Transferimos documentos e códigos para o GitHub para facilitar o trabalho em equipe e garantir acesso aos arquivos atualizados. A transferência para o repositório está quase concluída.
 
 <a href="https://drive.google.com/file/d/1CkTfOk3pIiZ_FXGgSiVQQI4GnXnkIZFp/view?usp=sharing"> Video Explicativo do protótipo</a>
+
+# Avaliação do protótipo
+
+## Avaliação parcial de requisistos e funcionalidades básicas do protótipo.
+
+### Metologia de avaliação
+
+Para realizar a avaliação do protótipo a equipe se reuniu e apresentou o protótipo e todas as suas funcionalidades...
+
+## Projetos futuros
+
+### Os próximos passo do projeto incluirão:
+
+Nessa próxima étapa a equipe começara a desenvolver o projeto e implementar tudo conforme foi planejado no protótipo, requisitos e caso de teste.
 
 ## ✅ Conclusão
 
