@@ -151,13 +151,13 @@ Realizar essa avaliação de forma individual em cada uma das etapas foi essenci
 
 A elicitação de requisitos foi realizada por meio de reuniões presenciais com os stakeholders. Inicialmente, os requisitos foram documentados em um nível voltado ao usuário, ou seja, da forma como o próprio usuário os descreveu. Esse processo é fundamental, não apenas para que a equipe compreenda as necessidades, mas também para que o próprio usuário tenha clareza sobre o que está sendo desenvolvido.
 
-<a href="https://trello.com/c/kGPyXjU7"></a>
+<a href="https://trello.com/c/kGPyXjU7">Requisitos a nível de usuário</a>
 
 ## Especificação de requisitos
 
 Agora a equipe se reuniu e transformou esses requisitos de alto nível em requisitos de sistema (baixo nível), ou seja, foi necessário um refinamento bem mais preciso e detalhado para que o programador tivesse clareza do que ele realmente irá desenvolver.
 
-<a href="https://trello.com/c/pyBce1lT"></a>
+<a href="https://trello.com/c/pyBce1lT">Requisitos especificados</a>
 
 ## Identidade Visual
 
