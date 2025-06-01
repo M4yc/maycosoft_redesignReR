@@ -141,48 +141,23 @@ Foram realizadas análises das funções, a fim de definir de forma clara quais 
 
 O feedback foi positivo quando a equipe apresentou as funcionalidades aprimoradas. Uma das principais queixas em relação ao sistema antigo era a complexidade para emitir uma nota de garantia, uma vez que o usuário precisava seguir vários passos até alcançar o objetivo final. Com isso, a equipe dedicou esforços para tornar esse processo o mais simples e intuitivo possível.
 
-## Requisitos
+### Conclusão
 
-**1.Interface visual moderna e intuitiva:**
+Realizar essa avaliação de forma individual em cada uma das etapas foi essencial para obter uma compreensão mais precisa das necessidades do usuário. Todas as validações realizadas foram fundamentais para garantir que o sistema atenda às expectativas e proporcione uma experiência satisfatória ao usuário final.
 
-_A interface deverá ser redesenhada para ser mais fácil de utilizar._
-_Utilizar as mesmas cores já disponíveis na empresa._
+# Engenharia de requisitos
 
-**2. Adição de navegação por mouse:**
+## Elicitação de requisitos
 
-_Implementar a funcionalidade para navegar pela interface com o mouse._
+A elicitação de requisitos foi realizada por meio de reuniões presenciais com os stakeholders. Inicialmente, os requisitos foram documentados em um nível voltado ao usuário, ou seja, da forma como o próprio usuário os descreveu. Esse processo é fundamental, não apenas para que a equipe compreenda as necessidades, mas também para que o próprio usuário tenha clareza sobre o que está sendo desenvolvido.
 
-**3. Implementar a funcionalidade de busca de mercadorias:**
+<a href="https://trello.com/c/kGPyXjU7"></a>
 
-_Adicionar a opção de buscar produtos no estoque a partir do nome ou do ID._
+## Especificação de requisitos
 
-**4. Geração de nota de garantia e serviço:**
+Agora a equipe se reuniu e transformou esses requisitos de alto nível em requisitos de sistema (baixo nível), ou seja, foi necessário um refinamento bem mais preciso e detalhado para que o programador tivesse clareza do que ele realmente irá desenvolver.
 
-_Após a geração da nota e/ou serviço, inserir um botão para gerar o PDF e enviá-lo ao cliente._
-
-**5. Modificação de campos na geração da nota:**
-
-_Remover a opção de “Cor” na nota. Adicionar um campo de “Observações” na nota para permitir a inserção de mais informações._
-
-**6 Cadastro de Mercadorias:**
-
-O código de referência deve ser gerado automaticamente em formato de ID crescente, à medida que novas mercadorias são cadastradas.
-
-No design, manter o campo "Cód REF" sem a opção de digitar manualmente.
-
-**7 Notas de Serviço:**
-
-Adicione uma aba para selecionar a forma de pagamento com as seguintes opções: Pix, Dinheiro, ou Cartão.
-
-Incluir dois campos adicionais: um para o "Modelo" e outro para a "Série" do item.
-
-Melhorar a funcionalidade de escolha de peças nas notas, permitindo a alteração do valor da peça durante a emissão.
-
-**8 Ordens de Serviço Anteriores:**
-
-Ao clicar em um cliente, exibir todas as ordens de serviço já realizadas para esse cliente.
-
-Criar uma tela de interação onde, ao selecionar o cliente, um relatório detalhado das notas emitidas seja exibido.
+<a href="https://trello.com/c/pyBce1lT"></a>
 
 ## Identidade Visual
 
