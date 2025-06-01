@@ -133,7 +133,13 @@ A utilização do protótipo foi essencial para compreender de forma mais clara 
 
 ### Usuário
 
-Apóes serem feitas algumas análises, a partir das avaliações do nosso usuário final, foi possívle entender ainda mais 
+Após a realização de algumas análises, com base nas avaliações do nosso usuário final, foi possível compreender ainda melhor o seu perfil. Dessa forma, foi possível atualizar a persona e o mapa de empatia. Essa atualização também foi apresentada ao usuário, que a validou de forma positiva. Esse processo foi fundamental para que a equipe entendesse, de maneira mais precisa, as necessidades e expectativas do usuário, tornando o design do sistema ainda mais centrado no usuário.
+
+### Função
+
+Foram realizadas análises das funções, a fim de definir de forma clara quais ações o usuário irá executar dentro do sistema. O objetivo principal do sistema foi determinante para que a equipe direcionasse ainda mais foco na etapa de modelagem, garantindo que não haja erros durante o desenvolvimento.
+
+O feedback foi positivo quando a equipe apresentou as funcionalidades aprimoradas. Uma das principais queixas em relação ao sistema antigo era a complexidade para emitir uma nota de garantia, uma vez que o usuário precisava seguir vários passos até alcançar o objetivo final. Com isso, a equipe dedicou esforços para tornar esse processo o mais simples e intuitivo possível.
 
 ## Requisitos
 
