@@ -397,7 +397,7 @@ Facilita a visualização de como o sistema funcionará na prática, permitindo 
 
 Através do figma realizou-se a criação das telas de login, cadastro de produtos e clientes, listas e busca, e envio de notas, com um layout intuitivo e moderno.
 
-<a href="https://www.figma.com/proto/qBblvwZG3D7UGILCJ8Zh0n/Design-R%26R?node-id=478-621&scaling=min-zoom&content-scaling=fixed&page-id=472%3A710&starting-point-node-id=478%3A621" target="_blank">Interface de Alta Fidelidade </a>
+<a href="https://www.figma.com/design/ralsS6FgAg8q3eQuA4uaI1/Design-R-R-2.0?node-id=472-710&p=f&t=hcnkfBuX4T07Jc0g-0" target="_blank">Protótipo de Alta Fidelidade </a>
 
 ## Processo contínuo
 
