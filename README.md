@@ -110,7 +110,7 @@ De frustração a eficiência e intuitividade, tentando ao máximo gerar uma boa
 Com base nas hipóteses, storytelling e pesquisa com o usuário, nós criamos a persona para representar a secretária que irá utilizar do produto modificado:
 
 <p align="center">
-   <img src="./assets/Persona.png" alt="Persona">
+   <img src="./assets/PersonaRefinado.png.JPG" alt="Persona">
 </p>
 <p align="center"> Figura 2 - Persona</p>
 
