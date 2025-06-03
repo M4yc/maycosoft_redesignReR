@@ -119,7 +119,7 @@ Com base nas hipóteses, storytelling e pesquisa com o usuário, nós criamos a 
 Na intenção de entender as necessidades e as perspectivas da nossa cliente, se colocando no lugar dela, foi desenvolvido em sala de aula um mapa de empatia considerando a persona que foi criada.
 
 <p align="center">
-   <img src="./assets/MapaEmpatiaRefinado.png" alt="Mapa de empatia">
+   <img src="./assets/mapa.jpg" alt="Mapa de empatia">
 </p>
 <p align="center"> Figura 3 - Mapa de Empatia</p>
 
