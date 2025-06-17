@@ -420,13 +420,13 @@ Transferimos documentos e códigos para o GitHub para facilitar o trabalho em eq
 
 ### Metologia de avaliação
 
-Para realizar a avaliação do protótipo a equipe se reuniu e apresentou o protótipo e todas as suas funcionalidades...
+Para realizar a avaliação do protótipo, a equipe se reuniu e escolheu uma abordagem prática e colaborativa, que permitisse a apresentação do sistema de forma clara e acessível. Foi realizada uma reunião com todos os integrantes do grupo, onde foi possível explorar as principais funcionalidades, os fluxos de navegação e a estrutura geral do protótipo. Durante esse momento, os requisitos definidos anteriormente e os casos de teste elaborados na etapa de planejamento serviram como base para guiar a análise. A intenção foi verificar se o protótipo atendia às expectativas iniciais e, ao mesmo tempo, identificar melhorias, ajustes necessários e possíveis novas demandas percebidas durante a interação com o sistema.
 
 ## Projetos futuros
 
 ### Os próximos passo do projeto incluirão:
 
-Nessa próxima étapa a equipe começara a desenvolver o projeto e implementar tudo conforme foi planejado no protótipo, requisitos e caso de teste.
+O projeto seguirá com ajustes baseados em feedbacks, implementação de novas funcionalidades, testes com usuários e melhorias contínuas para garantir usabilidade e eficiência.
 
 ## ✅ Conclusão
 
