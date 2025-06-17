@@ -176,7 +176,7 @@ Após a incorporação dos novos requisitos refinados e a atualização do prot�
 A Identidade visual do sistema foi inspirada nas cores e na logomarca da R&R Assistência Técnica,com algumas adaptações criativas para harmonizar com o estilo visual desejado. A paleta de cores foi baseada nos tons característicos da empresa, mas sofreu ajustes que foram da paleta de cor roxa( Sendo essa a cor inicial ). Para a de cor azul para atender uma estética personalizada e única de acordo com o gosto do nosso cliente.
 
 <p align="center">
-   <img src="./assets/Identidade_Visual.png" alt="Identidade Visual">
+   <img src="./assets/ID_Visual.png" alt="Identidade Visual">
 </p>
 <p align="center"> Figura 4 - Identidade Visual</p>
 
@@ -461,5 +461,11 @@ Sob a orientação da professora Cristiane Aparecida Lana, tivemos a oportunidad
       <br>
       <b>Luiz Filipe Souza</b> - <a href="https://github.com/LuizFilipe16" target="_blank">LuizFilipe16</a>
     </td>
+    <td align="center">
+      <img src="https://avatars.githubusercontent.com/u/114498133?v=4" width=115 style="border-radius: 50%;">
+      <br>
+      <b>Luiz Guilherme</b> - <a href="https://github.com/Luizguilherme110" target="_blank">Luizguilherme110</a>
+    </td>
   </tr>
 </table>
+
